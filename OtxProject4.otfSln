@@ -6,6 +6,7 @@
     <MvciServer />
   </Config>
   <DiagCom>
+    <DbConfig />
     <ECUMappings />
   </DiagCom>
 </Solution>
