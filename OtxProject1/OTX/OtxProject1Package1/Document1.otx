@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <otx xmlns="http://iso.org/OTX/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="id_40dfe2aaa4fc4a4d92b0c716314a1d21" name="Document1" package="OtxProject1Package1" version="1.0.0.0" timestamp="2021-09-06T17:41:56.7011246+07:00">
   <metaData>
     <data key="MadeWith">Created by emotive Open Test Framework - www.emotive.de</data>
@@ -6,6 +7,15 @@
   </metaData>
   <procedures>
     <procedure id="id_12c7235de136446ab807714633c55c16" name="main" visibility="PUBLIC">
+=======
+<otx xmlns="http://iso.org/OTX/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="id_208eb7e1877742189b4240ba33a6d2d4" name="Document1" package="OtxProject1Package1" version="1.0.0.0" timestamp="2021-08-27T14:53:44.0709416+07:00">
+  <metaData>
+    <data key="MadeWith">Created by emotive Open Test Framework - www.emotive.de</data>
+    <data key="OtfVersion">6.4.0.42646</data>
+  </metaData>
+  <procedures>
+    <procedure id="id_526d23083dbc41739aeea365d6111507" name="main" visibility="PUBLIC">
+>>>>>>> b235faa3c18349b68c62a3e81b238b49bfd1ef22
       <realisation>
         <flow />
       </realisation>
